@@ -1,0 +1,67 @@
+.container{
+    height:500px;
+    width:400px;
+    background-color:white;
+    position:relative;
+    top:147px;
+    left:560px;
+    border-radius: 10px;
+    border:1px solid grey;
+
+}
+.pic{
+    height:214px;
+    width:235px;
+    position:relative;
+    top:12px;
+    left:73px;
+
+}
+.a{
+    position:relative;
+  top:13px;
+  left:10px;
+  font-size: 25px;  
+}
+.paisa{
+    font-size:20px;
+    position: relative;
+    top:8px;
+    left:10px;
+}
+.paisa2{
+    font-size:20px;
+    position: relative;
+    top:-35px;
+    left:100px;
+    color:grey;
+    text-decoration: line-through solid darkslategray;
+}
+.second{
+    height:60px;
+    width:350px;
+    background-color: blue;
+    position:relative;
+    left:25px;
+    top:-40px;
+    border-radius: 5px;
+}
+.text{
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    position: relative;
+    top:6px;
+}
+.b{
+    height:40px;
+    width:70px;
+    background-color: red;
+    color:white;
+    border-radius: 6px;
+    position:relative;
+    left:10px;
+}
+.c{
+    text-align: center;
+}
