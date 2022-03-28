@@ -1,19 +1,24 @@
 import logo from './logo.svg';
 //import Sample from './Sample.js';
 //import Card from './Card.js';
-import Heading from './Heading/Heading.js';
-import Task from './Task/Task';
+//import Heading from './Heading/Heading.js';
+//import Task from './Task/Task';
+import Practice from './Practice.js';
 
 function App() {
   return (
-    <div>
- <Sample></Sample>
+   /* <div>
+    
+<Sample></Sample>
   
    <Card></Card>
 <Heading></Heading>
-<Task></Task>
+<Task></Task> 
+</div>*/
+<Practice></Practice>
    
- </div>  
+ 
+  
    
   );
 };  
