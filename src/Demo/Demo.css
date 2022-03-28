@@ -1,0 +1,32 @@
+
+    
+
+
+
+
+.parent{
+    height:300px;
+    width:350px;
+    background-color: lightgreen;
+    border-radius: 15px;
+    position:relative;
+    left:50px;
+    top:10px;
+    overflow:hidden;
+}
+
+.first{
+  font-size: 20px;
+  position: relative;
+  top:43px;
+  left:10px;
+  font-style: italic;
+}
+.image{
+    height: 130px;
+    width: 130px;
+    position: relative;
+    left: 102px;
+    top: 20px;
+
+}
